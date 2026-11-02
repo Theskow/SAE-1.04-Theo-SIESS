@@ -29,6 +29,11 @@ Ce projet m'a donné l'occasion d'explorer un sujet technique et de réfléchir 
 
 ##  Illustrations et résultats
 
+<img width="3024" height="4032" alt="velomobile" src="https://github.com/user-attachments/assets/380a8340-380c-428b-8072-66dfaa1387f7" />
+
+
+<img width="4032" height="3024" alt="cablage" src="https://github.com/user-attachments/assets/7c8a560d-6ab4-4032-9d0e-8fe870f6abb2" />
+
 
 
 ##  Ressources
