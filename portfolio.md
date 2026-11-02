@@ -40,4 +40,4 @@ Ce projet m'a aidé à comprendre la différence entre **structure** et **style*
 - Ajouter des animations ou des interactions simples.
 - Enrichir le portfolio avec de nouveaux projets.
 
-⬅️ [Retour à la présentation des projets](../README.md)
+⬅️ [Retour à la présentation des projets](README.md)
