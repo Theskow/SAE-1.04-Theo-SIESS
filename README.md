@@ -1,4 +1,4 @@
-# 👋 Mes projets — Développement web & projet scolaire
+#  Mes projets — Développement web & projet scolaire
 
 Bienvenue sur mon GitHub !
 
@@ -12,17 +12,17 @@ J'ai créé un site web de type **portfolio** pour apprendre les bases du dével
 
 **Compétences travaillées :** HTML, CSS, Flexbox, organisation d'une page web.
 
-➡️ [Découvrir la page du projet Portfolio](portfolio.md)
+ [Découvrir la page du projet Portfolio](portfolio.md)
 
-### 🚲 2. Vélomobile — Projet réalisé au lycée
+###  2. Vélomobile — Projet réalisé au lycée
 
 Dans le cadre d'un projet au lycée, j'ai travaillé sur le thème du **vélomobile**, un véhicule à propulsion humaine, généralement doté d'une carrosserie aérodynamique. Cette expérience m'a permis d'aborder un sujet technique dans un cadre scolaire.
 
 **Thèmes abordés :** mobilité, réflexion technique et démarche de projet.
 
-➡️ [Découvrir la page du projet Vélomobile](velomobile.md)
+ [Découvrir la page du projet Vélomobile](velomobile.md)
 
-## 📚 Ce que ces projets m'ont apporté
+##  Ce que ces projets m'ont apporté
 
 - Découvrir les bases de la création d'un site web.
 - Comprendre comment HTML et CSS fonctionnent ensemble.
