@@ -25,11 +25,6 @@ Il a constitué une base importante dans mon apprentissage de **HTML** et **CSS*
 
 Ce projet m'a aidé à comprendre la différence entre **structure** et **style**. J'ai également appris comment répartir des éléments sur une page à l'aide de Flexbox, une technique très utile pour créer des interfaces claires.
 
-##  Aperçu
-
-<img width="3024" height="4032" alt="velomobile" src="https://github.com/user-attachments/assets/6ec3c944-4d24-4f0f-94b2-d2a6a104b7c9" />
-
-
 
 ##  Améliorations possibles
 
