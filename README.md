@@ -6,7 +6,7 @@ Je partage ici deux projets qui m'ont permis de découvrir de nouvelles compéte
 
 ##  Mes projets
 
-###  1. Portfolio — Mes premiers pas en HTML et CSS
+###  1. Mes premiers pas en HTML et CSS
 
 J'ai créé un site web de type **portfolio** pour apprendre les bases du développement web. Ce projet m'a notamment permis de pratiquer la structure d'une page en **HTML**, la mise en forme avec **CSS** et l'utilisation de **Flexbox** pour organiser les éléments.
 
