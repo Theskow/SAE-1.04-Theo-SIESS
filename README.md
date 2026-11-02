@@ -29,6 +29,4 @@ Dans le cadre d'un projet au lycée, j'ai travaillé sur le thème du **vélomob
 - Apprendre à utiliser Flexbox pour construire des mises en page.
 - Développer ma curiosité et mon autonomie à travers des projets concrets.
 
----
 
-*Ce dépôt présente mon parcours d'apprentissage et pourra évoluer avec mes prochains projets.*
