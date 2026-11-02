@@ -35,4 +35,4 @@ Ce projet m'a donné l'occasion d'explorer un sujet technique et de réfléchir 
 
 - **Documents / code / modélisations du projet :** à ajouter si disponibles
 
-⬅️ [Retour à la présentation des projets](../README.md)
+⬅️ [Retour à la présentation des projets](README.md)
