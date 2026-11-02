@@ -27,7 +27,7 @@ Ce projet m'a aidé à comprendre la différence entre **structure** et **style*
 
 ## 📸 Aperçu
 
-*À compléter : ajouter une ou plusieurs captures d'écran du portfolio.*
+
 
 ## 🔗 Liens
 
