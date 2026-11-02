@@ -17,11 +17,11 @@ Un vélomobile est un véhicule à propulsion humaine, proche du vélo couché, 
 - **Conception :** réfléchir aux contraintes d'un véhicule utilisé au quotidien.
 - **Démarche de projet :** organiser les recherches, les idées et les résultats.
 
-> **À personnaliser :** préciser ici ce qui a réellement été réalisé au lycée (recherche documentaire, modélisation 3D, prototype, calculs, présentation orale, travail en équipe, etc.).
+
 
 ##  Outils et méthodes utilisés
 
-*À compléter avec les logiciels, matériels et méthodes réellement utilisés pendant le projet.*
+
 
 ##  Ce que ce projet m'a apporté
 
@@ -29,10 +29,10 @@ Ce projet m'a donné l'occasion d'explorer un sujet technique et de réfléchir 
 
 ##  Illustrations et résultats
 
-*À compléter : insérer des photos, schémas, captures de modélisation ou images de la présentation.*
+
 
 ##  Ressources
 
-- **Documents / code / modélisations du projet :** à ajouter si disponibles
+- **Documents / code / modélisations du projet :**
 
  [Retour à la présentation des projets](README.md)
