@@ -1,19 +1,19 @@
-# 💻 Projet Portfolio — Apprentissage de HTML et CSS
+#  Projet Portfolio — Apprentissage de HTML et CSS
 
-## 📌 Présentation
+##  Présentation
 
 Ce projet consiste à créer un **portfolio sous forme de site web**. Je l'ai réalisé pour découvrir le développement web et me familiariser avec les langages utilisés pour construire et mettre en forme des pages.
 
 Il a constitué une base importante dans mon apprentissage de **HTML** et **CSS**, en particulier pour comprendre les **Flexbox**.
 
-## 🎯 Objectifs
+##  Objectifs
 
 - Construire une page web structurée avec HTML.
 - Mettre en forme les textes, couleurs, espacements et blocs avec CSS.
 - Utiliser `display: flex`, `justify-content` et `align-items` pour organiser les éléments.
 - Améliorer progressivement la présentation et la lisibilité du site.
 
-## 🛠️ Technologies
+##  Technologies
 
 | Technologie | Utilisation |
 | --- | --- |
@@ -21,20 +21,17 @@ Il a constitué une base importante dans mon apprentissage de **HTML** et **CSS*
 | CSS | Apparence et mise en page |
 | Flexbox | Alignement et disposition des éléments |
 
-## 🧠 Ce que j'ai appris
+##  Ce que j'ai appris
 
 Ce projet m'a aidé à comprendre la différence entre **structure** et **style**. J'ai également appris comment répartir des éléments sur une page à l'aide de Flexbox, une technique très utile pour créer des interfaces claires.
 
-## 📸 Aperçu
+##  Aperçu
+
+<img width="3024" height="4032" alt="velomobile" src="https://github.com/user-attachments/assets/6ec3c944-4d24-4f0f-94b2-d2a6a104b7c9" />
 
 
 
-## 🔗 Liens
-
-- **Code source :** à ajouter
-- **Site en ligne (si publié) :** à ajouter
-
-## 🔮 Améliorations possibles
+##  Améliorations possibles
 
 - Adapter davantage l'affichage aux écrans de téléphone.
 - Ajouter des animations ou des interactions simples.
