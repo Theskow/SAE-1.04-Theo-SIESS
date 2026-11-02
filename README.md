@@ -12,7 +12,7 @@ J'ai créé un site web de type **portfolio** pour apprendre les bases du dével
 
 **Compétences travaillées :** HTML, CSS, Flexbox, organisation d'une page web.
 
-➡️ [Découvrir la page du projet Portfolio](projets/portfolio.md)
+➡️ [Découvrir la page du projet Portfolio](portfolio.md)
 
 ### 🚲 2. Vélomobile — Projet réalisé au lycée
 
@@ -20,7 +20,7 @@ Dans le cadre d'un projet au lycée, j'ai travaillé sur le thème du **vélomob
 
 **Thèmes abordés :** mobilité, réflexion technique et démarche de projet.
 
-➡️ [Découvrir la page du projet Vélomobile](projets/velomobile.md)
+➡️ [Découvrir la page du projet Vélomobile](velomobile.md)
 
 ## 📚 Ce que ces projets m'ont apporté
 
