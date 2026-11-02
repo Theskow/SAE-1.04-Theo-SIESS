@@ -16,7 +16,7 @@ J'ai créé un site web pour apprendre les bases du développement web. Ce proje
 
 ###  2. Vélomobile — Projet réalisé au lycée
 
-Dans le cadre d'un projet au lycée, j'ai travaillé sur le thème du **vélomobile**, un véhicule à propulsion humaine, généralement doté d'une carrosserie aérodynamique. Cette expérience m'a permis d'aborder un sujet technique dans un cadre scolaire.
+Dans le cadre d'un projet au lycée, j'ai travaillé sur le thème du **vélomobile**, un véhicule à propulsion humaine, doté d'une carrosserie aérodynamique. Cette expérience m'a permis d'aborder un sujet technique dans un cadre scolaire.
 
 **Thèmes abordés :** mobilité, réflexion technique et démarche de projet.
 
